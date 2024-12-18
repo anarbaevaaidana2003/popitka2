@@ -1,1 +1,1 @@
-# popitka2 gsd
+# popitka2 gsd  from git
